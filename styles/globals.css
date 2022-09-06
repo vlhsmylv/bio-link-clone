@@ -24,3 +24,8 @@ a {
     background: black;
   }
 }
+
+.form-control:focus {
+  box-shadow: none !important;
+  border: 1px solid black !important;
+}
